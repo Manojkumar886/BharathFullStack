@@ -2,7 +2,8 @@ package Arrays;
 
 import java.util.Arrays;
 
-public class CreatingAnArray {
+public class CreatingAnArray 
+{
 
 	public static void main(String[] args)
 	{

@@ -15,6 +15,8 @@ public class MethodOverriding1 extends MethodOVerriding
 		over1.calculate(35, 35);
 		//upcasting-referenced by parent class,but object is created by child class
 		MethodOVerriding obj=new MethodOverriding1();
+	//objcreationforchildclass objname=new referencedclassfor mainclass();
+		
 		obj.calculate(34, 34);
 		
 		

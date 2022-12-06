@@ -10,7 +10,7 @@ public class INfinteChances
 	{
 		try
 		{
-			System.out.println("enter the your start point value");
+			System.out.println("enter thstart point value");
 			int start=scan.nextInt();
 			System.out.println("enter the your end point value");
 			int end=scan.nextInt();

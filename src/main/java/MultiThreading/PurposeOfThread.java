@@ -13,7 +13,7 @@ public class PurposeOfThread {
 		th.start();
 		//obj.join();
 		System.out.println("Thank You Thread.....!");
-		
+		System.out.println("Wewlcome");
 	}
 }
 

@@ -35,7 +35,7 @@ class Bike extends Thread
 	}
 }
 
-class Car implements Runnable
+class Car implements Runnable 
 {
 	public void run()
 	{
